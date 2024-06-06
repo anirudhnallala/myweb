@@ -43,7 +43,7 @@
 </head>
 <body>
 <div class="container">
-  <h1>AWS DevOps Training by Anirudh</h1>
+  <h1>AWS DevOps Training by Anirudh Nallala</h1>
   <p>Welcome to our AWS DevOps training session! We'll cover various aspects of AWS and DevOps practices to enhance your skills.</p>
   <p>Topics include:</p>
   <ul>
